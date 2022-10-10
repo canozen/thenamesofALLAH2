@@ -1,0 +1,19 @@
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\bin\Debug\ALLAHın isimleri 2.exe.config
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\bin\Debug\ALLAHın isimleri 2.exe
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\bin\Debug\ALLAHın isimleri 2.pdb
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.csprojAssemblyReference.cache
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın_isimleri_2.Form1.resources
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın_isimleri_2.Properties.Resources.resources
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.csproj.GenerateResource.cache
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.csproj.CoreCompileInputs.cache
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.exe
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.pdb
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\bin\Debug\ALLAHın isimleri 2.exe.config
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\bin\Debug\ALLAHın isimleri 2.exe
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\bin\Debug\ALLAHın isimleri 2.pdb
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.csprojAssemblyReference.cache
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın_isimleri_2.Form1.resources
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın_isimleri_2.Properties.Resources.resources
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.csproj.GenerateResource.cache
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.exe
+C:\Users\canoz\Desktop\C#\ALLAHın isimleri 2\ALLAHın isimleri 2\obj\Debug\ALLAHın isimleri 2.pdb
